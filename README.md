@@ -5,7 +5,7 @@
 
 Постановка задачи ML: многоклассовая классификация.
 
-Набор данных: [Sloan Digital Sky Survey DR14] (https://www.kaggle.com/datasets/lucidlenn/sloan-digital-sky-survey)
+Набор данных: [Sloan Digital Sky Survey DR14](https://www.kaggle.com/datasets/lucidlenn/sloan-digital-sky-survey)
 
 ## Метрика качества
 Задача будет оцениваться по следующим метрикам:
